@@ -1,8 +1,15 @@
-## A New Post
+![AlertLogo](https://github.com/diogofraga/TESTE/blob/master/alertlogo.jpg)
+# Alert Support Managing Content
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-MarkDown for WIKI LALA **ALALALA**
+> Workflow at Alert - Simplyfied
 
-![]({{site.baseurl}}/https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ16r0jV-4bvJcxSSd3guBjF83Z6BU_d29U9lDtqu5LgNfBv5NRmC6qScyQ)
+    [root@VMNAGIOS ~]# cd /var/www/html/reciever/
+    [root@VMNAGIOS reciever]# tail -f log.txt | grep AO_GIRA 
+    Example of a Code Block.
 
-> Sentence
+We can use this plugin to search our wiki:
+https://github.com/linyows/github-wiki-search
+
+***
+![Imagem de Teste](https://github.com/diogofraga/TESTE/blob/master/printDLL.png)
+***
